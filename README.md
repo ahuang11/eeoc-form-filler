@@ -4,6 +4,8 @@ Tired of tediously clicking through the U.S. Equal Employment Opportunity Commis
 
 Automatically fill it out with this Chrome/Edge extension!
 
+![eeoc](https://user-images.githubusercontent.com/15331990/236123875-43841470-9256-47d1-843e-db52f4df4588.gif)
+
 ## Tutorial
 
 Step 1, under Extensions, click details:
