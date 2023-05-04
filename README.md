@@ -10,20 +10,7 @@ Automatically fill it out with this Chrome/Edge extension!
 
 The extension is currently pending review in the Chrome web store.
 
-In the mean time, if you'd like to use:
-
-1. `git clone https://github.com/ahuang11/eeoc-form-filler.git` or download the zip:
-<img width="426" alt="image" src="https://user-images.githubusercontent.com/15331990/236264374-4ebab484-da36-41e6-ae9b-1ff12bfca380.png">
-
-2. Unzip the file:
-<img width="367" alt="image" src="https://user-images.githubusercontent.com/15331990/236264484-a9eab24c-2bcf-49d4-8228-3f8d43993662.png">
-
-3. Manage extensions and click activate Developer mode:
-<img width="1489" alt="image" src="https://user-images.githubusercontent.com/15331990/236264838-94553fd1-9a5d-406e-ad23-66b8a6e781af.png">
-
-4. Load unpacked the unzipped file:
-<img width="386" alt="image" src="https://user-images.githubusercontent.com/15331990/236265461-b062fd6e-81a0-43ea-a334-fa3caa0b48e1.png">
-<img width="251" alt="image" src="https://user-images.githubusercontent.com/15331990/236264973-96fede50-7432-46b4-b686-f6c34cf8f683.png">
+In the mean time, if you'd like to use, see [Developer Mode](#developer-mode).
 
 ## Usage Tutorial
 
@@ -54,6 +41,21 @@ In the mean time, if you'd like to use:
 7. The fields should now be filled as configured:
 
 <img width="749" alt="image" src="https://user-images.githubusercontent.com/15331990/236117511-a8d1cb8d-58f9-469f-afee-4506bab5718c.png">
+
+## Developer Mode
+
+1. `git clone https://github.com/ahuang11/eeoc-form-filler.git` or download the zip:
+<img width="426" alt="image" src="https://user-images.githubusercontent.com/15331990/236264374-4ebab484-da36-41e6-ae9b-1ff12bfca380.png">
+
+2. Unzip the file:
+<img width="367" alt="image" src="https://user-images.githubusercontent.com/15331990/236264484-a9eab24c-2bcf-49d4-8228-3f8d43993662.png">
+
+3. Manage extensions and click activate Developer mode:
+<img width="1489" alt="image" src="https://user-images.githubusercontent.com/15331990/236264838-94553fd1-9a5d-406e-ad23-66b8a6e781af.png">
+
+4. Load unpacked the unzipped file:
+<img width="386" alt="image" src="https://user-images.githubusercontent.com/15331990/236265461-b062fd6e-81a0-43ea-a334-fa3caa0b48e1.png">
+<img width="251" alt="image" src="https://user-images.githubusercontent.com/15331990/236264973-96fede50-7432-46b4-b686-f6c34cf8f683.png">
 
 ## Disclaimer
 
