@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>EEOC Defaults</title>
+    <link rel="stylesheet" href="options.css">
+</head>
+
+
+<form id="options-form">
+    <h2>U.S. Equal Employment Opportunity Commission Questions Defaults</h2>
+
+    <label for="citizen">Are you a U.S. citizen?</label>
+    <select id="citizen" name="citizen">
+        <option value="---">---</option>
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+    </select><br>
+
+    <label for="authorized">Are you authorized to work in the U.S.?</label>
+    <select id="authorized" name="authorized">
+        <option value="---">---</option>
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+    </select><br>
+
+    <label for="sponsorship">Will you require sponsorship?</label>
+    <select id="sponsorship" name="sponsorship">
+        <option value="---">---</option>
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+    </select><br>
+
+    <label for="gender">Gender</label>
+    <select id="gender" name="gender">
+        <option value="---">---</option>
+        <option value="male">Male</option>
+        <option value="female">Female</option>
+        <option value="other">Other</option>
+        <option value="decline">Decline to self-identify</option>
+    </select><br>
+
+    <label for="is_hispanic">Are you Hispanic or Latino?</label>
+    <select id="is_hispanic" name="is_hispanic">
+        <option value="---">---</option>
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+        <option value="decline">Decline to self-identify</option>
+    </select><br>
+
+    <label for="race">Race</label>
+    <select id="race" name="race">
+        <option value="---">---</option>
+        <option value="asian">Asian</option>
+        <option value="black">Black or African American</option>
+        <option value="native">Native Hawaiian or Other Pacific Islander</option>
+        <option value="native">American Indian or Alaska Native</option>
+        <option value="hispanic">Hispanic or Latino</option>
+        <option value="white">White</option>
+        <option value="two">Two or More Races</option>
+        <option value="decline">Decline to self-identify</option>
+    </select><br>
+
+    <label for="veteran">Are you a veteran?</label>
+    <select id="veteran" name="veteran">
+        <option value="---">---</option>
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+        <option value="answer">Don't wish to answer</option>
+    </select><br>
+
+    <label for="disability">Do you have a disability?</label>
+    <select id="disability" name="disability">
+        <option value="---">---</option>
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+        <option value="answer">Don't wish to answer</option>
+    </select><br>
+
+    <label for="sex_orientation">Sexual Orientation</label>
+    <select id="sex_orientation" name="sex_orientation">
+        <option value="---">---</option>
+        <option value="heterosexual">Heterosexual</option>
+        <option value="lesbian">Lesbian</option>
+        <option value="gay">Gay</option>
+        <option value="bisexual">Bisexual</option>
+        <option value="pansexual">Pansexual</option>
+        <option value="asexual">Asexual</option>
+        <option value="other">Other</option>
+    </select><br>
+
+    <button id="save-button" type="submit">Save</button>
+</form>
+
+<!-- Include the JavaScript file for the options page -->
+<script src="options.js"></script>
+</body>
+
+</html>
