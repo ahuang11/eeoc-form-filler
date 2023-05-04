@@ -22,6 +22,7 @@ In the mean time, if you'd like to use:
 <img width="1489" alt="image" src="https://user-images.githubusercontent.com/15331990/236264838-94553fd1-9a5d-406e-ad23-66b8a6e781af.png">
 
 4. Load unpacked the unzipped file:
+<img width="386" alt="image" src="https://user-images.githubusercontent.com/15331990/236265461-b062fd6e-81a0-43ea-a334-fa3caa0b48e1.png">
 <img width="251" alt="image" src="https://user-images.githubusercontent.com/15331990/236264973-96fede50-7432-46b4-b686-f6c34cf8f683.png">
 
 ## Usage Tutorial
