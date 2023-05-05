@@ -8,7 +8,7 @@ Automatically fill it out with this Chrome/Edge extension!
 
 ## Installation
 
-Get the extension [here](https://chrome.google.com/webstore/detail/eeoc-form-filler/okkaopmfebgflkhbokimkdeghdcbhkjo/related)!
+Get the extension [here](https://chrome.google.com/webstore/detail/eeoc-form-filler/okkaopmfebgflkhbokimkdeghdcbhkjo/)!
 
 ## Usage Tutorial
 
