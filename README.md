@@ -8,9 +8,7 @@ Automatically fill it out with this Chrome/Edge extension!
 
 ## Installation
 
-The extension is currently pending review in the Chrome web store.
-
-In the mean time, if you'd like to use, see [Developer Mode](#developer-mode).
+Get the extension [here](https://chrome.google.com/webstore/detail/eeoc-form-filler/okkaopmfebgflkhbokimkdeghdcbhkjo/related)!
 
 ## Usage Tutorial
 
