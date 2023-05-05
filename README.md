@@ -38,7 +38,7 @@ Get the extension [here](https://chrome.google.com/webstore/detail/eeoc-form-fil
 
 7. The fields should now be filled as configured:
 
-<img width="749" alt="image" src="https://user-images.githubusercontent.com/15331990/236117511-a8d1cb8d-58f9-469f-afee-4506bab5718c.png">
+<img width="575" alt="image" src="https://user-images.githubusercontent.com/15331990/236541604-94dd74ee-4eb4-4321-90ec-ee4364b9a79a.png">
 
 ## Developer Mode
 
