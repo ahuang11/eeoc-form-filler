@@ -6,6 +6,8 @@ Automatically fill it out with this Chrome/Edge extension!
 
 ![tutorial](https://user-images.githubusercontent.com/15331990/236541218-fc71e482-5f81-4483-a76e-ff66a0578436.gif)
 
+Tested primarily on greenhouse and jobs.lever boards; may not work well on other sites like LinkedIn, but feel free to submit an issue and/or help contribute!
+
 ## Installation
 
 Get the extension [here](https://chrome.google.com/webstore/detail/eeoc-form-filler/okkaopmfebgflkhbokimkdeghdcbhkjo/)!
